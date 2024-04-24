@@ -51,7 +51,7 @@ For Executing this whole project yoou must have the pre-requisites stated above-
 ### How to run locally
 + clone the repo
 ```
-git clone "this repo's link"
+git clone https://github.com/kumar20vinay/Resume_Prediction.git
 
 ```
 + open Google Colab or Jupyter Notebook

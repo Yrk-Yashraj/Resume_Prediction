@@ -14,7 +14,7 @@ Our Resume Prediction ML project leverages machine learning algorithms to analyz
 
 
 
-## Requirements
+## Pre-requisites
 
 1. [Python](https://www.python.org/downloads/)
 2. [Google Colab](https://colab.research.google.com)
@@ -34,6 +34,27 @@ Our Resume Prediction ML project leverages machine learning algorithms to analyz
 
 
 
-## Flowchart
+## Execution
 
 ![](https://github.com/kumar20vinay/CP-Solutions/blob/main/Screenshot%202024-04-24%20231135.png)
+ 
+For Executing this whole project yoou must have the pre-requisites stated above-
+
++ **Load the Dataset** for the purpose of training of model
++ **Clean the dataset** using NLP.
++ Label the data using **Tf-Idf Vectorizer.**
++ Splitting the data for **Training the Model.**
++ Evaluates the model performance by the use of metrics like **confusion Matrix and Accuracy.**
++ Parse the Resume through for **data Extraction.**
++ Clean the parsed data
++ Now finally pass the extracted data to the model for **Category Prediction.**
+### How to run locally
++ clone the repo
+```
+git clone "this repo's link"
+
+```
++ open Google Colab or Jupyter Notebook
++ run the **.ipynb** file
+
+

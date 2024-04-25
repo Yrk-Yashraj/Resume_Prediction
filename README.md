@@ -37,7 +37,7 @@ Our Resume Prediction ML project leverages machine learning algorithms to analyz
 
 ## Execution
 
-![](https://github.com/kumar20vinay/CP-Solutions/blob/main/Screenshot%202024-04-24%20231135.png)
+![](https://github.com/kumar20vinay/Resume_Prediction/blob/main/images/flowchart.png)
  
 For Executing this whole project yoou must have the pre-requisites stated above-
 

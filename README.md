@@ -1,5 +1,5 @@
 
-# Resume_Prediction
+# ResWork
 
 Our Resume Prediction ML project leverages machine learning algorithms to analyze and predict the suitability of resumes for specific job positions. By employing natural language processing techniques, it parses resumes to extract relevant information such as skills, experience, and education. The model then compares these details against job descriptions to determine the role to which the candidate is most compatible. Through continuous learning and optimization, our system provides accurate and efficient resume screening, saving time and resources for candidates ensuring a better match between candidates and job openings.
 
